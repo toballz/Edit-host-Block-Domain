@@ -1,0 +1,9 @@
+C:\Users\tobal\source\repos\Edit Host\Edit Host\obj\Debug\Edit Host.csprojAssemblyReference.cache
+C:\Users\tobal\source\repos\Edit Host\Edit Host\obj\Debug\Edit_Host.Form1.resources
+C:\Users\tobal\source\repos\Edit Host\Edit Host\obj\Debug\Edit_Host.Properties.Resources.resources
+C:\Users\tobal\source\repos\Edit Host\Edit Host\obj\Debug\Edit Host.csproj.GenerateResource.cache
+C:\Users\tobal\source\repos\Edit Host\Edit Host\bin\Debug\Edit Host.exe.config
+C:\Users\tobal\source\repos\Edit Host\Edit Host\bin\Debug\Edit Host.exe
+C:\Users\tobal\source\repos\Edit Host\Edit Host\bin\Debug\Edit Host.pdb
+C:\Users\tobal\source\repos\Edit Host\Edit Host\obj\Debug\Edit Host.exe
+C:\Users\tobal\source\repos\Edit Host\Edit Host\obj\Debug\Edit Host.pdb
